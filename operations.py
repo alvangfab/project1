@@ -6,6 +6,6 @@ Created on Wed Dec 21 17:43:55 2016
 """
 
 def suma(a,b):
-    print (f'(a)(b)')
+    print ('to_conflict')
 
 suma(2,3)
